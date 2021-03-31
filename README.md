@@ -1,2 +1,3 @@
 # Masala-dosa
-recipe
+
+This is a recipe about masala dosa. Do try it!
